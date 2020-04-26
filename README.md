@@ -1,4 +1,4 @@
-# SEBF: A Single-Chain based Extension Model of Blockchain for Fintech
+# IJCAI20 SEBF
 This is a simple demo for SEBF model.
 
 ## Table of Contents
