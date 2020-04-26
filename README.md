@@ -1,4 +1,4 @@
-# IJCAI20 SEBF
+# IJCAI2020 SEBF
 
 ## Table of Contents
 [SEBF](https://github.com/sebf2020/ijcai20/blob/master/sebf.md)  
