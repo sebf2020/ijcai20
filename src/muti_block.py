@@ -2,6 +2,8 @@
 # an oracle group machine need to be added（The source code will be released in the next step）
 # In order to facilitate deployment, we used local txt instead of database and use light flask http
 
+# This code need to be run in the python3.7+ environment
+
 import hashlib
 import json
 import uuid
