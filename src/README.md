@@ -10,4 +10,4 @@ TIPS:
 
 5.Oracle machine group code will be later uploaded.
 
-6. .java files is the early demo of our sebf model.
+6.java files is the early demo of our sebf model.
